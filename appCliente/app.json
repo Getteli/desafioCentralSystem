@@ -1,0 +1,14 @@
+{
+  "name": "appCliente",
+  "displayName": "appCliente",
+  "expo": {
+    "name": "appcliente",
+    "slug": "appcliente",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "teste description",
+    "scheme": "http"
+  },
+}
